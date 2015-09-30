@@ -1,0 +1,8 @@
+installer
+installer.exe
+*.pro.user
+Makefile
+Makefile.*
+*.7z
+*.7z.sha1
+Updates.xml
