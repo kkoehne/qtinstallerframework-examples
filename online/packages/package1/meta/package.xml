@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package>
-    <DisplayName>Minimal Installer</DisplayName>
-    <Description>Minimal installer for Qt World Summit Demo</Description>
+    <DisplayName>Online Installer</DisplayName>
+    <Description>Online installer for Qt World Summit Demo</Description>
     <Version>1.0.0-1</Version>
     <ReleaseDate>2015-10-07</ReleaseDate>
     <Default>true</Default>

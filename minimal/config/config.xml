@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Installer>
-    <Name>Minimal Installer</Name>
-    <Version>1.0.0</Version>
+    <Name>Minimal Installer 1.0</Name>
     <Title>Minimal Installer Example</Title>
-    <StartMenuDir>QtWorldSummit2015</StartMenuDir>
-    <TargetDir>@ApplicationsDir@/QtWorldSummit2015/Minimal</TargetDir>
+    <Version>1.0.0</Version>
+    <TargetDir>@HomeDir@/QtWorldSummit2015/Minimal</TargetDir>
 </Installer>

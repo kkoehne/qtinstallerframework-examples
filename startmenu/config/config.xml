@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Installer>
-    <Name>Start Menu Shortcut</Name>
-    <Version>1.0.0</Version>
+    <Name>Start Menu Shortcut 1.0</Name>
     <Title>Start Menu Shortcut Example</Title>
+    <Version>1.0.0</Version>
+    <TargetDir>@HomeDir@/QtWorldSummit/StartMenu</TargetDir>
+
     <StartMenuDir>QtWorldSummit2015</StartMenuDir>
-    <TargetDir>@HomeDir@/QtWorldSummit/Startmenu</TargetDir>
 </Installer>
