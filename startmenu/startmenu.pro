@@ -10,4 +10,6 @@ example.CONFIG += target_predeps no_link combine
 
 QMAKE_EXTRA_COMPILERS += example
 
-include(packages/package1/package1.pri)
+OTHER_FILES += \
+    packages/package1/meta/package.xml \
+    packages/package1/meta/script.js
