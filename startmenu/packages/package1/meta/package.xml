@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package>
-    <DisplayName>Example Package</DisplayName>
-    <Description>Example package with a README.txt</Description>
+    <DisplayName>Example Package (with script)</DisplayName>
+    <Description>Example package for Qt World Summit Demo</Description>
     <Version>1.0.0-1</Version>
     <ReleaseDate>2015-10-07</ReleaseDate>
     <Default>true</Default>
